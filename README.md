@@ -1,4 +1,7 @@
 # Fitting Poisson  distribution
+
+## Dharmaraj - 212222240025
+
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
